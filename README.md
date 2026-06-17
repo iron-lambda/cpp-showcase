@@ -1,8 +1,7 @@
 # cpp-showcase
 
-![Language](https://img.shields.io/badge/language-C%2B%2B-00599C)
+![Language](https://img.shields.io/badge/language-C%2B%2B-00599C)  [![English](https://img.shields.io/badge/lang-English-blue)](README.md) [![中文](https://img.shields.io/badge/lang-中文-red)](README.zh-CN.md)
 
-[English](README.md) | [中文](README.zh-CN.md)
 
 A collection of C++ code examples for learning and quick reference. Each example demonstrates a different concept or library in modern C++.
 
