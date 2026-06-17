@@ -1,6 +1,6 @@
 # cpp-showcase
 
-[![Language](https://img.shields.io/badge/language-C%2B%2B-00599C)]
+![Language](https://img.shields.io/badge/language-C%2B%2B-00599C)
 
 [English](README.md) | [中文](README.zh-CN.md)
 
